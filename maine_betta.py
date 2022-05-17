@@ -1,3 +1,3 @@
 
 
-print('ciao')
+print('Betta')
